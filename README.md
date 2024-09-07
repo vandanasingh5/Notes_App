@@ -32,6 +32,8 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 ### Add Note
 ![Add Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20053744.png)
 
+![Add Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20111857.png)
+
 ### Delete Note
 
 
