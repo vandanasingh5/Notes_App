@@ -1,29 +1,22 @@
-# Instagram Clone
+# Notes App
 
-Welcome to the InstaClick project! This is a full-stack application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT for authentication. The application is fully responsive, styled with Tailwind CSS, and includes features such as posting, deleting posts, commenting, liking/unliking posts, messaging, profile viewing, followers/following management, and user authentication.
+Welcome to the Notes App! This is a full-stack application built with React.js for the frontend, MySQL as the database, and Node.js for the backend. The app allows users to securely manage their notes with features like adding, updating, deleting, and reading notes. User authentication is handled using JWT (JSON Web Tokens).
 
 ![App Screenshot](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
 
 ## Features
 
 - **User Authentication:**
-  - Sign up and sign in with JWT token-based authentication.
+  - Signup and login functionality with JWT-based authentication.
   
-- **Posts:**
-  - Upload a new post with image ,title and description.
-  - Delete an existing post.
-  
-- **Interactions:**
-  - Comment on posts.
-  - Like and unlike posts.
-  
-- **Profile:**
-  - View your profile with your posts, followers, and following lists.
-  - Check profiles of other users.
-  
-- **Followers:**
-  - Follow and unfollow users.
-  - Check followers and following lists.
+- **Note Management:**
+  - Add a new note with a title and description.
+  - Update an existing note.
+  - Delete a note permanently.
+  - Read all saved notes on a user-specific dashboard.
+
+- **Database:**
+  - Notes are stored and retrieved from a MySQL database.
 
 ## Screenshots
 
@@ -43,14 +36,14 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 
 - **Frontend:**
   - React.js
-  - Tailwind CSS
+  - CSS for simple design
   
 - **Backend:**
   - Node.js
   - Express.js
   
 - **Database:**
-  - MongoDB
+  - MySql
   
 - **Authentication:**
   - JSON Web Tokens (JWT)
@@ -59,4 +52,4 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vandanasingh5/InstaClick.git
+   git clone https://github.com/vandanasingh5/Notes_App.git
