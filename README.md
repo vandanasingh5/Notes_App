@@ -20,17 +20,20 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 
 ## Screenshots
 
-### Home Page
+### Signup Page
 ![Home Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
-### Profile Page
+### Login Page
 ![Profile Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
 
-### Post Page
+### Notes Dashboard
 ![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
-### Followers Page
+### Add Note
 ![Followers Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/followers.jpeg)
+
+### Delete Note
+
 
 ## Technologies Used
 
