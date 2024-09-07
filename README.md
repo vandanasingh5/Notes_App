@@ -30,7 +30,7 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 ![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
 ### Add Note
-![Followers Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/followers.jpeg)
+![Add Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20053744.png)
 
 ### Delete Note
 
