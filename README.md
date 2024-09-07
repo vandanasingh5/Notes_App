@@ -2,7 +2,7 @@
 
 Welcome to the Notes App! This is a full-stack application built with React.js for the frontend, MySQL as the database, and Node.js for the backend. The app allows users to securely manage their notes with features like adding, updating, deleting, and reading notes. User authentication is handled using JWT (JSON Web Tokens).
 
-![App Screenshot](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
+![App Screenshot](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20113006.png)
 
 ## Features
 
@@ -27,7 +27,7 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 ![Login Page](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20053516.png)
 
 ### Notes Dashboard
-![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
+![Notes Dashboard](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20113006.png)
 
 ### Add Note
 ![Add Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20053744.png)
