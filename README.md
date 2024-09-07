@@ -35,7 +35,7 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 ![Add Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20111857.png)
 
 ### Delete Note
-
+![Delete Note](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20112128.png)
 
 ## Technologies Used
 
