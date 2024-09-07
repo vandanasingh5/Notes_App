@@ -21,7 +21,7 @@ Welcome to the Notes App! This is a full-stack application built with React.js f
 ## Screenshots
 
 ### Signup Page
-![Home Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
+![Signup Page](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20111316.png)
 
 ### Login Page
 ![Login Page](https://github.com/vandanasingh5/Notes_App/blob/main/Screenshot%202024-09-07%20053516.png)
